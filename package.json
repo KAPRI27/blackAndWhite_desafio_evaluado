@@ -1,0 +1,17 @@
+{
+  "name": "blackanwhite_desafio_evaluado",
+  "version": "1.0.0",
+  "description": "evaluando manejo imagenes con jimp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pmaureira",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "express": "^4.19.2",
+    "jimp": "^0.22.12",
+    "jquery": "^3.7.1"
+  }
+}
